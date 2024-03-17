@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.3",
+    "js-database-connection": "^1.0.5"
+  },
+  "name": "adminis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rialy19/adminis-js.git"
+  },
+  "author": "rialy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rialy19/adminis-js/issues"
+  },
+  "homepage": "https://github.com/rialy19/adminis-js#readme",
+  "description": ""
+}
